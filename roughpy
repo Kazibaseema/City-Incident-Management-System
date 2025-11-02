@@ -1,0 +1,3 @@
+s='baseema'
+a=sorted(s)
+print(a)
